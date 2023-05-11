@@ -11,9 +11,9 @@ title                    : "Sung Joo Kim"
 title_separator          : "-"
 name                     : &name "Sung Joo Kim"
 description              : &description "PhD candidate in Information Systems at Daniels School of Business, Purdue University"
-url                      : https://sungjookim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rigel31324.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sungjookim.github.io"
+repository               : "rigel31324.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
