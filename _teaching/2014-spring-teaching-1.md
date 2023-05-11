@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Korea University (2019)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,13 +8,10 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Teaching Assistant
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+* Technological Innovation Management (GMBA)
+* IT Innovation Convergence and Smart Business (KMBA)
+* Management Information Systems (AMBA)
+* IT Innovation Management: Issues and Trends
+* Introduction to Management Information Systems
