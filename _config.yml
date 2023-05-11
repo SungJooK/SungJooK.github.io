@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sung Joo Kim"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Information Systems at Daniels School of Business, Purdue University"
-  location         : "403 Mitch Daniels Blvd, West Lafayette, IN 47907"
+  bio              : "PhD candidate in Management Information Systems at Purdue University"
+  #location         : "403 Mitch Daniels Blvd, West Lafayette, IN 47907"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
