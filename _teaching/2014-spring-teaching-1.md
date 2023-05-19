@@ -8,10 +8,4 @@ permalink: /teaching/2014-spring-teaching-1
 #location: "City, Country"
 ---
 
-Teaching Assistant
-======
-* Technological Innovation Management (GMBA)
-* IT Innovation Convergence and Smart Business (KMBA)
-* Management Information Systems (AMBA)
-* IT Innovation Management: Issues and Trends
-* Introduction to Management Information Systems
+
