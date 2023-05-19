@@ -4,7 +4,7 @@ collection: teaching
 #type: "Workshop"
 permalink: /Teaching/
 venue: "Purdue University, Department"
-date: Fall 2022
+#date: Fall 2022
 location: "West Lafayette, IN"
 ---
 
