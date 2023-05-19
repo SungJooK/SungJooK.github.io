@@ -1,12 +1,12 @@
 ---
-title: "Instructor"
-collection: teaching
+title: "Daniels School of Business, Purdue University"
+#collection: teaching
 #type: "Workshop"
 permalink: /Teaching/
-venue: "Purdue University, Department"
+#venue: "Purdue University, Department"
 #date: Fall 2022
-location: "West Lafayette, IN"
----
+#location: "West Lafayette, IN"
+
 
 Instructor
 ======
@@ -17,6 +17,6 @@ Instructor
 
 Teaching assistant
 ======
-* MGMT 382: Management and Information Systems
-* MGMT 683: Information Technology for Innovation and Competitive Advatange
+* MGMT 382: Management and Information Systems (2020) 
+* MGMT 683: Information Technology for Innovation and Competitive Advatange (2021-2022)
 
