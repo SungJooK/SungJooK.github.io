@@ -1,7 +1,7 @@
 ---
 #title: "Daniels School of Business, Purdue University"
 #collection: teaching
-permalink: /Teaching/
+#permalink: /Teaching/
 #type: "Workshop"
 #venue: "Purdue University, Department"
 #date: Fall 2022
