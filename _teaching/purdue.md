@@ -7,6 +7,8 @@ permalink: /Teaching/
 #date: Fall 2022
 #location: "West Lafayette, IN"
 
+---
+
 
 Instructor
 ======
