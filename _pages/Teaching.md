@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /Teaching/
 author_profile: true
 ---
 
-Instructor (Daniels School of Business, Purdue University)
+
+
+Instructor 
 ======
 * MGMT 382: Management and Information Systems (Fall 2022)
   * Instructor Evalution: 4.6/5.0, 4.3/5.0
