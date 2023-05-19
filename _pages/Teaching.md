@@ -21,7 +21,7 @@ Teaching assistant
   * MGMT 382: Management and Information Systems (2020) 
   * MGMT 683: Information Technology for Innovation and Competitive Advatange (2021-2022)
   
-* Korea University (2019)
+* Korea University Business School (2019)
   * Technological Innovation Management (GMBA)
   * IT Innovation Convergence and Smart Business (KMBA)
   * Management Information Systems (AMBA)
