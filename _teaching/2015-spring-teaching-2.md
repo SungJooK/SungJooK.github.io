@@ -1,11 +1,11 @@
 ---
-title: "Purdue University"
+title: "Instructor"
 collection: teaching
 #type: "Workshop"
-#permalink: /teaching/2015-spring-teaching-1
-#venue: "University 1, Department"
-#date: 2015-01-01
-#location: "City, Country"
+permalink: /Teaching/
+venue: "Purdue University, Department"
+date: Fall 2022
+location: "West Lafayette, IN"
 ---
 
 Instructor
