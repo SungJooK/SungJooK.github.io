@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-
+Awards and Grants
 ======
 * Krannert Certificate for Distinguished Teaching, Krannert School of Management, Purdue University (2023)
 * Krannert Certificate for Outstanding Teaching, Krannert School of Management, Purdue University (2023)
