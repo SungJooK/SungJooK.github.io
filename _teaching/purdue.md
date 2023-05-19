@@ -1,12 +1,13 @@
 ---
-title: "Daniels School of Business, Purdue University"
-collection: teaching
+#title: "Daniels School of Business, Purdue University"
+#collection: teaching
 permalink: /Teaching/
----
 #type: "Workshop"
 #venue: "Purdue University, Department"
 #date: Fall 2022
 #location: "West Lafayette, IN"
+---
+
 
 
 Instructor
