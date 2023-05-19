@@ -34,7 +34,7 @@ Working Papers
   * Sung Joo Kim and Ralph Siebert
   * Presented at POMS Annual Conference (2022)
 
-* Health Service Delivery: Does Robot-Assisted Surgery Play A Role?
+* Racial Health Inequality: Does Robot-Assisted Surgery Play A Role?
   * Jianing Ding, Sung Joo Kim, and Susan Feng Lu 
   * Selected to present at Informs Annual Meeting (2023)
 
