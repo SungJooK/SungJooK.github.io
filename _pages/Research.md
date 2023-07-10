@@ -26,9 +26,9 @@ Working Papers
   * Hajime Shimao, Warut Kherm-am-nuai, Sung Joo Kim, and Karthik Kannan
   * Reject and Resubmit at Information Systems Research
  
-* The Effect of Minimum Wage on Employee Performance: Evidence from a Multi-level Marketing Firm
+* Can Minimum Wage Increases Influence Commission-Based Agents?: Evidence From A Multi-level Marketing Firm
   * Sung Joo Kim, Dinesh Puranam, Wreeto Kar, and S. Siddarth
-  * Selected to present at ISMS Marketing Science (2023)
+  * Presented at ISMS Marketing Science (2023)
 
 * Differential Prefrences towards House Purchase across Gender and Marital Status
   * Sung Joo Kim and Ralph Siebert
@@ -40,7 +40,7 @@ Working Papers
 
 Work in Progress
 ====== 
-* Relocated Airbnb to Housing Markets: Evidence from Homeowner Composition
+* Impacts of Home Sharing Regulation on Housing Investment: Evidence from Airbnb and Zillow
   * Sung Joo Kim, Wei Chen, Zaiyan Wei, Karen Xie
 
 * Revisiting the CEO Effect Through a Machine Learning Lens
