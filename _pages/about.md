@@ -26,7 +26,7 @@ Working Papers
   * Sung Joo Kim, Dinesh Puranam, Wreeto Kar, and S. Siddarth
   * Present at ISMS Marketing Science (2023)
 
-* Differential Prefrences towards House Purchase across Gender and Marital Status
+* Does the ''Going Solo'' Relationship Trend has an Effect on the Real Estate Market?
   * Sung Joo Kim, Ralph Siebert, and Zaiyan Wei
   * Presented at POMS Annual Conference (2022)
 
