@@ -14,7 +14,7 @@ Sung Joo Kim (김성주) is a Ph.D. candidate in Management Information Systems 
 Working Papers
 ======
 * How the Compensation Plan of a Multilevel Marketing Firm Impacts Sales Agent Effort and Performance: The Role of Boundary Looking  
-  * with Wreeto Kar, and S. Siddarth
+  * with Wreeto Kar and S. Siddarth
   * Under revision at Journal of Marketing Research
   * Presented at ISMS Marketing Science (2022) 
 
@@ -27,7 +27,7 @@ Working Papers
   * Present at ISMS Marketing Science (2023)
 
 * Does the ''Going Solo'' Relationship Trend has an Effect on the Real Estate Market?
-  * with Ralph Siebert, and Zaiyan Wei
+  * with Ralph Siebert and Zaiyan Wei
   * Presented at POMS Annual Conference (2022)
 
 * Racial Health Inequality: Does Robot-Assisted Surgery Play A Role?
@@ -43,7 +43,7 @@ Work in Progress
   * with Hajime Shimao, Warut Kherm-am-nuai, and Maxim Cohen
  
 * How Does a Sales-agent’s Network Structure Impact her Sales Performance? Evidence from a Multilevel-marketing Firm  
-  * with Wreeto Kar, and S. Siddarth
+  * with Wreeto Kar and S. Siddarth
   
 Education
 ======
