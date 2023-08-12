@@ -17,34 +17,35 @@ Research Interests
 
 Working Papers
 ======
-* How the Compensation Plan of a Multilevel Marketing Firm Impacts Sales Agent Effort and Performance: The Role of Boundary Looking  
-  * with Wreeto Kar and S. Siddarth
-  * Under revision at Journal of Marketing Research
-  * Presented at ISMS Marketing Science (2022) 
+* Impacts of Home Sharing Regulation on Housing Investment: Evidence from Airbnb and Zillow
+  * with Wei Chen, Zaiyan Wei, Karen Xie
+  * Selected to present at Conference on Information Systems and Technology (CIST) (2023)
 
-* So You Think You are Safe: Implication of Quality Uncertainty in Security Software
-  * with Hajime Shimao, Warut Kherm-am-nuai, and Karthik Kannan
-  * Reject and Resubmit at Information Systems Research
- 
 * Can Minimum Wage Increases Influence Commission-Based Agents?: Evidence From A Multi-level Marketing Firm
   * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
   * Presented at ISMS Marketing Science (2023)
 
-* Does the ''Going Solo'' Relationship Trend has an Effect on the Real Estate Market?
-  * with Ralph Siebert and Zaiyan Wei
-  * Presented at POMS Annual Conference (2022)
+* So You Think You are Safe: Implication of Quality Uncertainty in Security Software
+  * with Hajime Shimao, Warut Kherm-am-nuai, and Karthik Kannan
+  * Reject and Resubmit at Information Systems Research
 
 * Racial Health Inequality: Does Robot-Assisted Surgery Play A Role?
   * with Jianing Ding and Susan Feng Lu 
   * Selected to present at Informs Annual Meeting (2023)
 
+* How the Compensation Plan of a Multilevel Marketing Firm Impacts Sales Agent Effort and Performance: The Role of Boundary Looking  
+  * with Wreeto Kar and S. Siddarth
+  * Presented at ISMS Marketing Science (2022) 
+
+* Does the ''Going Solo'' Relationship Trend has an Effect on the Real Estate Market?
+  * with Ralph Siebert and Zaiyan Wei
+  * Presented at POMS Annual Conference (2022)
+
+
 Work in Progress
 ====== 
-* Impacts of Home Sharing Regulation on Housing Investment: Evidence from Airbnb and Zillow
-  * with Wei Chen, Zaiyan Wei, Karen Xie
-
 * Revisiting the CEO Effect Through a Machine Learning Lens
   * with Hajime Shimao, Warut Kherm-am-nuai, and Maxim Cohen
  
 * How Does a Sales-agent’s Network Structure Impact her Sales Performance? Evidence from a Multilevel-marketing Firm  
-  * with Wreeto Kar and S. Siddarth
+  * with Wreeto Kar, S. Siddarth, and Byeongyeon Kim
