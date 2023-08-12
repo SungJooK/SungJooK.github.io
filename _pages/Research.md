@@ -48,4 +48,4 @@ Work in Progress
   * with Hajime Shimao, Warut Kherm-am-nuai, and Maxim Cohen
  
 * How Does a Sales-agent’s Network Structure Impact her Sales Performance? Evidence from a Multilevel-marketing Firm  
-  * with Wreeto Kar, S. Siddarth, and Byeongyeon Kim
+  * with Wreeto Kar, S. Siddarth, and Byungyeon Kim
