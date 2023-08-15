@@ -18,7 +18,7 @@ Research Interests
 Working Papers
 ======
 * Impacts of Home Sharing Regulation on Housing Investment: Evidence from Airbnb and Zillow
-  * with Wei Chen, Zaiyan Wei, Karen Xie
+  * with Wei Chen, Zaiyan Wei, and Karen Xie
   * Selected to present at Conference on Information Systems and Technology (CIST) (2023)
 
 * Can Minimum Wage Increases Influence Commission-Based Agents?: Evidence From A Multi-level Marketing Firm
