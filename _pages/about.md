@@ -22,7 +22,7 @@ Working Papers
   * Presented at ISMS Marketing Science (2023)
 
 * Racial Health Inequality: Does Robot-Assisted Surgery Play A Role?
-  * with Jianing Ding, and Susan Feng Lu 
+  * with Jianing Ding and Susan Feng Lu 
   * Selected to present at Informs Annual Meeting (2023)
  
 * Does the ''Going Solo'' Relationship Trend has an Effect on the Real Estate Market?
