@@ -19,11 +19,7 @@ Working Papers
 
 * Can Minimum Wage Increases Influence Commission-Based Agents?:Evidence From A Multi-level Marketing Firm
   * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
-  * Present at ISMS Marketing Science (2023)
-
-* So You Think You are Safe: Implication of Quality Uncertainty in Security Software
-  * with Hajime Shimao, Warut Kherm-am-nuai, and Karthik Kannan
-  * Reject and Resubmit at Information Systems Research
+  * Presented at ISMS Marketing Science (2023)
 
 * Racial Health Inequality: Does Robot-Assisted Surgery Play A Role?
   * with Jianing Ding, and Susan Feng Lu 
@@ -35,7 +31,11 @@ Working Papers
  
 * How the Compensation Plan of a Multilevel Marketing Firm Impacts Sales Agent Effort and Performance: The Role of Boundary Looking  
   * with Wreeto Kar and S. Siddarth
-  * Presented at ISMS Marketing Science (2022) 
+  * Presented at ISMS Marketing Science (2022)
+    
+* So You Think You are Safe: Implication of Quality Uncertainty in Security Software
+  * with Hajime Shimao, Warut Kherm-am-nuai, and Karthik Kannan
+  * Reject and Resubmit at Information Systems Research
 
 Work in Progress
 ====== 
