@@ -48,7 +48,7 @@ Work in Progress
   
 Education
 ======
-* Ph.D. in Management Information Systems, Purdue University, 2024 (expected)
+* Ph.D. in Management Information Systems, Purdue University, 2025 (expected)
 * M.S. in Economics, Purdue University, 2022
 * B.B.A. and B.E. in Statistics, Korea University, 2019
 
