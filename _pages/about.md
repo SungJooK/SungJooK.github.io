@@ -41,7 +41,7 @@ Working Papers
 Work in Progress
 ====== 
 * Revisiting the CEO Effect Through a Machine Learning Lens
-  * with Hajime Shimao, Warut Kherm-am-nuai, and Maxim Cohen
+  * with Hajime Shimao, Warut Kherm-am-nuai, and Maxime Cohen
  
 * How Does a Sales-agent’s Network Structure Impact her Sales Performance? Evidence from a Multilevel-marketing Firm  
   * with Wreeto Kar, S. Siddarth, and Byungyeon Kim
