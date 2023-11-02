@@ -10,8 +10,8 @@ author_profile: true
 Research Interests 
 ======
 * Gig-economy
-* Multi-level Marketing
 * Sharing Economy and Housing Market
+* Multi-level Marketing
 * IT in Healthcare
 * Cyber Security
 
