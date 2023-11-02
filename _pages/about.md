@@ -24,6 +24,7 @@ Working Papers
 * Racial Health Inequality: Does Robot-Assisted Surgery Play A Role?
   * with Jianing Ding and Susan Feng Lu 
   * Presented at Informs Annual Meeting (2023)
+  * Invited for POMS Annual Conference (2024)
  
 * Does the ''Going Solo'' Relationship Trend has an Effect on the Real Estate Market?
   * with Ralph Siebert and Zaiyan Wei
