@@ -34,6 +34,10 @@ Working Papers
   * with Wreeto Kar and S. Siddarth
   * Presented at ISMS Marketing Science (2022)
   * Invited to present at Korea University Brownbag Seminar (2021)
+
+* Revisiting the CEO Effect Through a Machine Learning Lens
+  * with Hajime Shimao, Warut Kherm-am-nuai, and Maxime Cohen
+  * Under review at Management Science
     
 * So You Think You are Safe: Implication of Quality Uncertainty in Security Software
   * with Hajime Shimao, Warut Kherm-am-nuai, and Karthik Kannan
@@ -41,9 +45,6 @@ Working Papers
 
 Work in Progress
 ====== 
-* Revisiting the CEO Effect Through a Machine Learning Lens
-  * with Hajime Shimao, Warut Kherm-am-nuai, and Maxime Cohen
- 
 * How Does a Sales-agent’s Network Structure Impact her Sales Performance? Evidence from a Multilevel-marketing Firm  
   * with Wreeto Kar, S. Siddarth, and Byungyeon Kim
   
