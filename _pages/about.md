@@ -20,6 +20,7 @@ Working Papers
 * Can Minimum Wage Increases Influence Commission-Based Agents?:Evidence From A Multi-level Marketing Firm
   * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
   * Presented at ISMS Marketing Science (2023)
+  * Winner for Krannert Doctoral Research Symposium (2023)
 
 * Racial Health Inequality: Does Robot-Assisted Surgery Play A Role?
   * with Jianing Ding and Susan Feng Lu 
