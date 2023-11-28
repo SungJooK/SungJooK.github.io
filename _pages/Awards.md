@@ -9,6 +9,7 @@ author_profile: true
 
 Awards and Grants
 ======
+* Krannert Ph.D. Research Symphosium Winner, Krannert School of Management, Purdue University (2023)
 * Krannert Certificate for Distinguished Teaching, Krannert School of Management, Purdue University (2023)
 * Krannert Certificate for Outstanding Teaching, Krannert School of Management, Purdue University (2023)
 * Krannert Doctoral Research Fund Grant, Krannert School of Management, Purdue University (2022, 2023)
