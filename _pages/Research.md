@@ -42,7 +42,7 @@ Working Papers
 
 * Revisiting the CEO Effect Through a Machine Learning Lens
   * with Hajime Shimao, Warut Kherm-am-nuai, and Maxime Cohen
-  * Under review at Management Science
+  * Invited for major revision at Management Science
  
 * So You Think You are Safe: Implication of Quality Uncertainty in Security Software
   * with Hajime Shimao, Warut Kherm-am-nuai, and Karthik Kannan
