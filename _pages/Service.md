@@ -18,6 +18,6 @@ Conference Reviewer
 * Academy of Management Annual Conference (AOM)  
   * 2023
 * Pacific Asia Conference on Information Systems (PACIS)  
-  * 2023
+  * 2023, 2024
 
 
