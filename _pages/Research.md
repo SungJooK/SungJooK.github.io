@@ -56,4 +56,6 @@ Work in Progress
  
 * How Does a Sales-agent’s Network Structure Impact her Sales Performance? Evidence from a Multilevel-marketing Firm  
   * with Wreeto Kar, S. Siddarth, and Byungyeon Kim
+* Should Digital Platforms Share Data with Governments? Evidence from Airbnb
+  * with Hongchang Wang, Karen Xie, Wei Chen and Zaiyan Wei 
 * Estimating MLM salesforce compensation. Inverse reinforcement learning approach.   
