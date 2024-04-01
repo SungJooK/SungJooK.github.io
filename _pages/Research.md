@@ -17,7 +17,7 @@ Research Interests
 
 Working Papers
 ======
-* Impacts of Home Sharing Regulation on Housing Investment: Evidence from Airbnb and Zillow
+* Impact of Short-term Rental on Real Estate Investment: Evidence from Airbnb and Zillow
   * with Wei Chen, Zaiyan Wei, and Karen Xie
   * Presented at Conference on Information Systems and Technology (CIST) (2023)
 
