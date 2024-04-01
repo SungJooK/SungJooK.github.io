@@ -16,7 +16,7 @@ Instructor
     * Awarded Krannert Certificate for Distinguished Teaching
     * Awarded Krannert Certificate for Outstanding Teaching
 
-* Certificate in Foundations of College Teaching (Summer 2021), Purdue University
+  * Certificate in Foundations of College Teaching (Summer 2021), Purdue University
 
 Teaching assistant
 ======
