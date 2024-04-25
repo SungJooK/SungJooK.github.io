@@ -19,5 +19,8 @@ Conference Reviewer
   * 2023
 * Pacific Asia Conference on Information Systems (PACIS)  
   * 2023, 2024
+* China Summer Workshop on Information Management (CSWIM) 
+  * 2024
+ 
 
 
