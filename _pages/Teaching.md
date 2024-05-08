@@ -10,7 +10,9 @@ author_profile: true
 Instructor 
 ======
 * Daniels School of Business, Purdue University
-  * MGMT 544: Database Management Systems (Spring 2024) 
+  * MGMT 544: Database Management Systems (Spring 2024)
+    * Instructor Evalution: 4.8/5.0
+     
   * MGMT 382: Management and Information Systems (Fall 2022)
     * Instructor Evalution: 4.6/5.0, 4.3/5.0
     * Awarded Krannert Certificate for Distinguished Teaching
