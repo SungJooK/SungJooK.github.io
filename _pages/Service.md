@@ -10,7 +10,7 @@ author_profile: true
 Conference Reviewer
 ======
 * International Conference on Informations Systems (ICIS) 
-  * 2021, 2022, 2023
+  * 2021, 2022, 2023, 2024
 * Conference on Information Systems and Technology (CIST) 
   * 2021, 2022
 * Workshop on Information and Systems (WITS) 
