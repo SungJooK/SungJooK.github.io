@@ -13,7 +13,7 @@ Sung Joo Kim (김성주) is a Ph.D. candidate in Management Information Systems 
 
 Papers Under Review
 ======
-* Can Minimum Wage Increases Influence Commission-Based Agents?: Evidence From A Multi-level Marketing Firm
+* The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents 
   * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
   * Under Review at Marketing Science
    
