@@ -11,6 +11,20 @@ redirect_from:
 Sung Joo Kim (김성주) is a Ph.D. candidate in Management Information Systems at Daniels School of Business, Purdue University. Prior to joining the doctoral program, he received B.B.A and B.E in Statistics from Korea University. His research focuses on gig economy and housing market, as well as multilevel marketing salesforece and IT in healthcare. He utilizes empirical models including casual inference and structural modeling as well as bridging machine learning. He is also highly skilled in big data analytics using cloud computing.  
 
 
+Papers Under Review
+======
+* Can Minimum Wage Increases Influence Commission-Based Agents?: Evidence From A Multi-level Marketing Firm
+  * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
+  * Under Review at Marketing Science
+   
+* Revisiting the CEO Effect Through a Machine Learning Lens
+  * with Hajime Shimao, Warut Kherm-am-nuai, and Maxime Cohen
+  * Invited for Revise and Resubmit at Management Science (Minor Revision)
+ 
+* So You Think You are Safe: Implication of Quality Uncertainty in Security Software
+  * with Hajime Shimao, Warut Kherm-am-nuai, and Karthik Kannan
+  * Reject and Resubmit at Information Systems Research
+
 Working Papers
 ======
 * Impact of Short-term Rental on Real Estate Investment: Evidence from Airbnb and Zillow
@@ -18,32 +32,19 @@ Working Papers
   * Presented at Conference on Information Systems and Technology (CIST) (2023)
   * Invited for Symposium on Statistical Challenges in Electronic Commerce Research (SCECR) (2024)
 
-* Can Minimum Wage Increases Influence Commission-Based Agents?:Evidence From A Multi-level Marketing Firm
-  * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
-  * Presented at ISMS Marketing Science (2023)
-  * Winner for Krannert Doctoral Research Symposium (2023)
-
 * Racial Health Inequality: Does Robot-Assisted Surgery Play A Role?
   * with Jianing Ding and Susan Feng Lu 
   * Presented at Informs Annual Meeting (2023)
   * Presented at POMS Annual Conference (2024)
- 
+
 * Does the ''Going Solo'' Relationship Trend has an Effect on the Real Estate Market?
   * with Ralph Siebert and Zaiyan Wei
   * Presented at POMS Annual Conference (2022)
- 
+    
 * How the Compensation Plan of a Multilevel Marketing Firm Impacts Sales Agent Effort and Performance: The Role of Boundary Looking  
   * with Wreeto Kar and S. Siddarth
   * Presented at ISMS Marketing Science (2022)
-  * Invited to present at Korea University Brownbag Seminar (2021)
-
-* Revisiting the CEO Effect Through a Machine Learning Lens
-  * with Hajime Shimao, Warut Kherm-am-nuai, and Maxime Cohen
-  * Invited for Revise and Resubmit at Management Science
-    
-* So You Think You are Safe: Implication of Quality Uncertainty in Security Software
-  * with Hajime Shimao, Warut Kherm-am-nuai, and Karthik Kannan
-  * Reject and Resubmit at Information Systems Research
+  * Invited to present at Korea University Brownbag seminar (2021)
 
 Work in Progress
 ====== 
