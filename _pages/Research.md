@@ -17,17 +17,18 @@ Research Interests
 
 Papers Under Review
 ======
-* The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents 
-  * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
-  * Under Review at Marketing Science
-   
 * Revisiting the CEO Effect Through a Machine Learning Lens
   * with Hajime Shimao, Warut Kherm-am-nuai, and Maxime Cohen
-  * Invited for Revise and Resubmit at Management Science (Minor Revision)
+  * Major Revision at _Management Science_
  
 * So You Think You are Safe: Implication of Quality Uncertainty in Security Software
   * with Hajime Shimao, Warut Kherm-am-nuai, and Karthik Kannan
-  * Reject and Resubmit at Information Systems Research
+  * Reject and Resubmit at _Information Systems Research_
+   
+* The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents 
+  * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
+  * Under Review at _Marketing Science_
+   
 
 Working Papers
 ======
