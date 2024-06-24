@@ -11,6 +11,8 @@ Conference Reviewer
 ======
 * International Conference on Informations Systems (ICIS) 
   * 2021, 2022, 2023, 2024
+* Conference on Information Systems and Technology (CIST) 
+  * 2021, 2022, 2024
 * Pacific Asia Conference on Information Systems (PACIS)  
   * 2023, 2024
 * China Summer Workshop on Information Management (CSWIM) 
@@ -19,8 +21,7 @@ Conference Reviewer
   * 2021, 2023
 * Academy of Management Annual Conference (AOM)  
   * 2023
-* Conference on Information Systems and Technology (CIST) 
-  * 2021, 2022
+
 
  
 
