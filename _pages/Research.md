@@ -35,7 +35,7 @@ Working Papers
 * Impact of Short-term Rental on Real Estate Investment: Evidence from Airbnb and Zillow
   * with Wei Chen, Zaiyan Wei, and Karen Xie
   * Presented at Conference on Information Systems and Technology (CIST) (2023)
-  * Invited for Symposium on Statistical Challenges in Electronic Commerce Research (SCECR) (2024)
+  * Presented at Symposium on Statistical Challenges in Electronic Commerce Research (SCECR) (2024)
 
 * Racial Health Inequality: Does Robot-Assisted Surgery Play A Role?
   * with Jianing Ding and Susan Feng Lu 
