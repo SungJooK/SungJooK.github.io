@@ -34,13 +34,13 @@ Working Papers
 ======
 * Impact of Short-term Rental on Real Estate Investment: Evidence from Airbnb and Zillow
   * with Wei Chen, Zaiyan Wei, and Karen Xie
-  * Presented at Conference on Information Systems and Technology (CIST) (2023)
   * Presented at Symposium on Statistical Challenges in Electronic Commerce Research (SCECR) (2024)
+  * Presented at Conference on Information Systems and Technology (CIST) (2023)
 
 * Racial Health Inequality: Does Robot-Assisted Surgery Play A Role?
   * with Jianing Ding and Susan Feng Lu 
-  * Presented at Informs Annual Meeting (2023)
   * Presented at POMS Annual Conference (2024)
+  * Presented at Informs Annual Meeting (2023)
 
 * Does the ''Going Solo'' Relationship Trend has an Effect on the Real Estate Market?
   * with Ralph Siebert and Zaiyan Wei
