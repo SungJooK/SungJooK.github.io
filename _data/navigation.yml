@@ -12,8 +12,10 @@ main:
   - title: "Service"
     url: /Service/
     
+  - title: "About me"
+   url: /About me/    
+  
   #- title: "CV"
   #  url: /cv/
     
-  #- title: "Guide"
-  #  url: /markdown/
+
