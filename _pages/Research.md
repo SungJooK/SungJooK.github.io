@@ -27,8 +27,8 @@ Papers Under Review
   * Major Revision at _Management Science_
     
  * Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment
-  * with Wei Chen, Zaiyan Wei, and Karen Xie
-  * Under Review at _Information Systems Research_
+   * with Wei Chen, Zaiyan Wei, and Karen Xie
+   * Under Review at _Information Systems Research_
    
 * The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents 
   * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
@@ -38,9 +38,9 @@ Papers Under Review
 Working Papers
 ======
 * Does Robot-Assisted Surgery Improve Healthcare Delivery?
-  * with Jianing Ding and Susan Feng Lu 
+  * with Jianing Ding and Susan Feng Lu
+  * Presented at Informs Annual Meeting (2023,2024)
   * Presented at POMS Annual Conference (2024)
-  * Presented at Informs Annual Meeting (2023)
 
 * Does the ''Going Solo'' Relationship Trend have an Effect on the Real Estate Market?
   * with Ralph Siebert and Zaiyan Wei
