@@ -20,24 +20,23 @@ Papers Under Review
 * Revisiting the CEO Effect Through a Machine Learning Lens
   * with Hajime Shimao, Warut Kherm-am-nuai, and Maxime Cohen
   * Major Revision at _Management Science_
- 
-* So You Think You are Safe: Implication of Quality Uncertainty in Security Software
-  * with Hajime Shimao, Warut Kherm-am-nuai, and Karthik Kannan
-  * Reject and Resubmit at _Information Systems Research_
+    
+ * Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment
+  * with Wei Chen, Zaiyan Wei, and Karen Xie
+  * Under Review at _Information Systems Research_
    
 * The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents 
   * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
   * Under Review at _Marketing Science_
-   
+    
 
 Working Papers
 ======
-* Impact of Short-term Rental on Real Estate Investment: Evidence from Airbnb and Zillow
-  * with Wei Chen, Zaiyan Wei, and Karen Xie
+
   * Presented at Symposium on Statistical Challenges in Electronic Commerce Research (SCECR) (2024)
   * Presented at Conference on Information Systems and Technology (CIST) (2023)
 
-* Racial Health Inequality: Does Robot-Assisted Surgery Play A Role?
+* Does Robot-Assisted Surgery Improve Healthcare Delivery?
   * with Jianing Ding and Susan Feng Lu 
   * Presented at POMS Annual Conference (2024)
   * Presented at Informs Annual Meeting (2023)
