@@ -9,11 +9,16 @@ author_profile: true
 
 Research Interests 
 ======
-* Housing Market and Sharing Economy
-* Gig-economy
-* Multi-level Marketing
-* IT in Healthcare
-* Cyber Security
+* Economics of Informations Systems
+* AI and Application
+* Platform Economics
+* Technology and Real Estate
+* Technology and Healthcare
+* Gig Economy
+
+Methodology 
+======
+* Casual Inference, Machine Learning, Structural Modeling
 
 Papers Under Review
 ======
@@ -32,16 +37,12 @@ Papers Under Review
 
 Working Papers
 ======
-
-  * Presented at Symposium on Statistical Challenges in Electronic Commerce Research (SCECR) (2024)
-  * Presented at Conference on Information Systems and Technology (CIST) (2023)
-
 * Does Robot-Assisted Surgery Improve Healthcare Delivery?
   * with Jianing Ding and Susan Feng Lu 
   * Presented at POMS Annual Conference (2024)
   * Presented at Informs Annual Meeting (2023)
 
-* Does the ''Going Solo'' Relationship Trend has an Effect on the Real Estate Market?
+* Does the ''Going Solo'' Relationship Trend have an Effect on the Real Estate Market?
   * with Ralph Siebert and Zaiyan Wei
   * Presented at POMS Annual Conference (2022)
     
