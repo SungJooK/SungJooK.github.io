@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "Sung Joo Kim"
 author_profile: true
 redirect_from: 
