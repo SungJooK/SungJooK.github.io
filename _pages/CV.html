@@ -22,7 +22,7 @@ author_profile: true
     }
 </style>
 
-    <object class="pdf" 
+<!--     <object class="pdf" 
             data=
 "Curriculum_Vitae_07312024.pdf"
             width="800"
@@ -42,18 +42,48 @@ author_profile: true
     </style>
 </head>
 <body>
-    <h1>yYou can check my CV</h1>
+    You can check my CV
     <button onclick="showCV()">here</button>
     <iframe id="pdf-viewer" src="" frameborder="0"></iframe>
 
     <script>
         function showCV() {
             var iframe = document.getElementById('pdf-viewer');
-            iframe.src = 'files/Curriculum_Vitae_07312024.pdf'; // Replace with the URL of your CV PDF
+            iframe.src = '/files/Curriculum_Vitae_07312024.pdf'; // Replace with the URL of your CV PDF
             iframe.style.display = 'block';
         }
     </script>
 </body>
+ -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My CV</title>
+    <style>
+        #pdf-viewer {
+            display: none;
+            width: 100%;
+            height: 600px;
+        }
+    </style>
+</head>
+<body>
+    <h1>My CV</h1>
+    <button onclick="showCV()">View CV</button>
+    <iframe id="pdf-viewer" src="" frameborder="0"></iframe>
+
+    <script>
+        function showCV() {
+            var iframe = document.getElementById('pdf-viewer');
+            iframe.src = '/files/Curriculum_Vitae_07312024.pdf'; // Path to your PDF file in the files folder
+            iframe.style.display = 'block';
+        }
+    </script>
+</body>
+</html>
 
 
 
