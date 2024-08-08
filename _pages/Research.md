@@ -59,4 +59,3 @@ Work in Progress
 ====== 
 * How Does a Sales-agent’s Network Structure Impact her Sales Performance? Evidence from a Multilevel-marketing Firm  
   * with Wreeto Kar, S. Siddarth, and Byungyeon Kim
-* Estimating MLM salesforce compensation. Inverse reinforcement learning approach.   
