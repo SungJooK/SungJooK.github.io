@@ -30,10 +30,7 @@ Papers Under Review
    * with Wei Chen, Zaiyan Wei, and Karen Xie
    * Under Review at _Information Systems Research_
    
-* The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents 
-  * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
-  * Under Review at _Marketing Science_
-    
+   
 
 Working Papers
 ======
@@ -42,6 +39,10 @@ Working Papers
   * Presented at Informs Annual Meeting (2023,2024)
   * Presented at POMS Annual Conference (2024)
 
+* The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents 
+  * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
+  * Presented at ISMS Marketing Science (2023) 
+    
 * Does the ''Going Solo'' Relationship Trend have an Effect on the Real Estate Market?
   * with Ralph Siebert and Zaiyan Wei
   * Presented at POMS Annual Conference (2022)
