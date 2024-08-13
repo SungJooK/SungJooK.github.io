@@ -10,7 +10,7 @@ author_profile: true
 Research Interests 
 ======
 * Economics of Informations Systems
-* AI and Application
+* AI Applications
 * Platform Economics
 * Technology and Real Estate
 * Technology and Healthcare
@@ -36,26 +36,28 @@ Working Papers
 ======
 * Does Robot-Assisted Surgery Improve Healthcare Delivery?
   * with Jianing Ding and Susan Feng Lu
+  * In preparation for Submission to _Management Science_
   * Presented at Informs Annual Meeting (2023,2024)
   * Presented at POMS Annual Conference (2024)
 
-* The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents 
+* Should Digital Platforms Share Data with Governments? Evidence from Airbnb
+  * In preparation for Submission to _MIS Quarterly_
+  * with Hongchang Wang, Karen Xie, Wei Chen and Zaiyan Wei 
+
+* The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents
+  * In preparation for Submission to _Journal of Marketing_
   * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
   * Presented at ISMS Marketing Science (2023) 
     
 * Does the ''Going Solo'' Relationship Trend have an Effect on the Real Estate Market?
+  * In preparation for Submission to _Management Science_
   * with Ralph Siebert and Zaiyan Wei
   * Presented at POMS Annual Conference (2022)
     
 * How the Compensation Plan of a Multilevel Marketing Firm Impacts Sales Agent Effort and Performance: The Role of Boundary Looking  
-  * with Wreeto Kar and S. Siddarth
+  * with Wreeto Kar, S. Siddarth, and Byungyeon Kim
   * Presented at ISMS Marketing Science (2022)
   * Invited to present at Korea University Brownbag seminar (2021)
 
-* Should Digital Platforms Share Data with Governments? Evidence from Airbnb
-  * with Hongchang Wang, Karen Xie, Wei Chen and Zaiyan Wei 
 
-Work in Progress
-====== 
-* How Does a Sales-agent’s Network Structure Impact her Sales Performance? Evidence from a Multilevel-marketing Firm  
-  * with Wreeto Kar, S. Siddarth, and Byungyeon Kim
+
