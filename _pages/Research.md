@@ -38,6 +38,11 @@ Working Papers
   * Finalizing for submitting to _MIS Quarterly_
   * with Hongchang Wang, Karen Xie, Wei Chen and Zaiyan Wei
 
+* Does the ''Going Solo'' Relationship Trend have an Effect on the Real Estate Market?
+  * Finalizing for submitting to _Management Science_
+  * with Ralph Siebert and Zaiyan Wei
+  * Presented at POMS Annual Conference (2022)
+    
 * The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents
   * In preparation for submitting to _Journal of Marketing_
   * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
@@ -48,12 +53,7 @@ Working Papers
   * In preparation for submitting to _Management Science_
   * Presented at Informs Annual Meeting (2023,2024)
   * Presented at POMS Annual Conference (2024)
-   
-* Does the ''Going Solo'' Relationship Trend have an Effect on the Real Estate Market?
-  * Finalizing for submitting to _Management Science_
-  * with Ralph Siebert and Zaiyan Wei
-  * Presented at POMS Annual Conference (2022)
-    
+     
 * How the Compensation Plan of a Multilevel Marketing Firm Impacts Sales Agent Effort and Performance: The Role of Boundary Looking  
   * with Wreeto Kar, S. Siddarth, and Byungyeon Kim
   * In preparation for submitting to _Marketing Science_
