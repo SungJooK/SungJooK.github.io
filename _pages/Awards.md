@@ -9,6 +9,7 @@ author_profile: true
 
 Awards and Grants
 ======
+* Fellow, ICIS Doctoral Consortium (2024)
 * Fellow, INFORMS Information Systems Society (ISS) Doctoral Consortium (2024)
 * Krannert Certificate for Distinguished Teaching, Krannert School of Management, Purdue University (2023, 2024)
 * Daniels School of Business Spring Distinguished Instructor (2024)
