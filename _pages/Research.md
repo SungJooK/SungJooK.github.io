@@ -24,7 +24,7 @@ Papers Under Review
 ======
 * Revisiting the CEO Effect Through a Machine Learning Lens
   * with Hajime Shimao, Warut Kherm-am-nuai, and Maxime Cohen
-  * Major Revision at _Management Science_
+  * Minor Revision at _Management Science_
     
  * Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment
    * with Wei Chen, Zaiyan Wei, and Karen Xie
