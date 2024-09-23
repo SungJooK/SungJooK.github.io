@@ -28,7 +28,7 @@ Papers Under Review
     
  * Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment
    * with Wei Chen, Zaiyan Wei, and Karen Xie
-   * Under Review at _Information Systems Research_
+   * Under Review 
    
    
 
