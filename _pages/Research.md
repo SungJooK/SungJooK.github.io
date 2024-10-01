@@ -28,9 +28,8 @@ Accepted/Published Papers
 
 Papers Under Review
 ======   
- * Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment
-   * with Wei Chen, Zaiyan Wei, and Karen Xie
-   * Under Review 
+(* Indicates first author or co-first author. Co-first authors listed in alphabetic order.)
+ * Kim, SJ.*, Xie K., Chen, W., Wei Z. “Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment." Under Review
    
    
 Working Papers
