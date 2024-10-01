@@ -19,19 +19,19 @@ Research Interests
 Methodology 
 ======
 * Casual Inference, Machine Learning, Structural Modeling
+  
+Accepted/Published Papers
+======
+*  Shimao, H., Kim, S., Khern-am-nuai, W., and Cohen, M. "Revisiting the CEO Effect Through Machine Learning Lens." Management Science (Forthcoming)
+
 
 Papers Under Review
-======
-* Revisiting the CEO Effect Through a Machine Learning Lens
-  * with Hajime Shimao, Warut Kherm-am-nuai, and Maxime Cohen
-  * Minor Revision at _Management Science_
-    
+======   
  * Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment
    * with Wei Chen, Zaiyan Wei, and Karen Xie
    * Under Review 
    
    
-
 Working Papers
 ======
 * Should Digital Platforms Share Data with Governments? Evidence from Airbnb
