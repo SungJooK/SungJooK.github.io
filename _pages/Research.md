@@ -23,7 +23,7 @@ Methodology
 Accepted/Published Papers
 ======
 (* Indicates first author or co-first author. Co-first authors listed in alphabetic order.)
-*  Shimao, H. *, Kim, S. *, Khern-am-nuai, W., and Cohen, M. "Revisiting the CEO Effect Through Machine Learning Lens." Management Science (Forthcoming)
+*  Shimao, H. *, Kim, SJ. *, Khern-am-nuai, W., and Cohen, M. "Revisiting the CEO Effect Through Machine Learning Lens." Management Science (Forthcoming)
 
 
 Papers Under Review
