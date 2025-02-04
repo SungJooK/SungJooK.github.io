@@ -18,7 +18,7 @@ Research Interests
 
 Methodology 
 ======
-* Casual Inference, Machine Learning, Structural Modeling
+* Causal Inference, Machine Learning, Structural Modeling
   
 Accepted/Published Papers
 ======
