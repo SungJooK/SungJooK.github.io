@@ -55,13 +55,14 @@ Working Papers
   * Presented at ISMS Marketing Science (2022)
   * Invited to present at Korea University Brownbag seminar (2021)
 
-
-# * Does the ''Going Solo'' Relationship Trend have an Effect on the Real Estate Market?
-#  * Finalizing for submitting to _Management Science_
-#  * with Ralph Siebert and Zaiyan Wei
-#  * Presented at POMS Annual Conference (2022)
+{% comment %} 
+* Does the ''Going Solo'' Relationship Trend have an Effect on the Real Estate Market?
+  * Finalizing for submitting to _Management Science_
+  * with Ralph Siebert and Zaiyan Wei
+  * Presented at POMS Annual Conference (2022)
     
-# * The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents
-#  * In preparation for submitting to _Journal of Marketing_
-#  * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
-#  * Presented at ISMS Marketing Science (2023)>
+ * The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents
+  * In preparation for submitting to _Journal of Marketing_
+  * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
+  * Presented at ISMS Marketing Science (2023)
+{% endcomment %}
