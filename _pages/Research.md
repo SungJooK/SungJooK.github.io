@@ -24,7 +24,7 @@ Accepted/Published Papers
 ======
 (* Indicates first author or co-first author. Co-first authors listed in alphabetic order.)
 * [1]  Shimao, H. *, Kim, SJ. *, Khern-am-nuai, W., and Cohen, M. "Revisiting the CEO Effect Through Machine Learning Lens." _Management Science_
-[[Publisher Website]([https://website-name.com](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.03625))]
+[[Publisher Website](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.03625){:target="_blank"}]
 
 
 Papers Under Review/Revision
