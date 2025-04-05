@@ -31,11 +31,11 @@ Papers Under Review/Revision
 ======   
 (* Indicates first author or co-first author. Co-first authors listed in alphabetic order.)
  * Kim, SJ.*, Puranam, D., Kar, W., and S. Siddarth. "Spillover Effects of Minimum Wage Policies on Gig-Workers: Evidence from Multi-level Marketing"
-   _Under Review_  
+   * _Under Review at Journal of Marketing_  
  * Kim, SJ.*, Siebert, R., Wei, Z. "Going Solo: How Single-Person Households Shape the Housing Market"
-   _Under Review_  
+   * _Under Review at Management Science_  
  * Kim, SJ.*, Xie K., Chen, W., Wei Z. “Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment."
-   _Reject and Resubmit at MIS Quarterly_
+   * _Reject and Resubmit at MIS Quarterly_
    
 Working Papers
 ======
@@ -54,15 +54,3 @@ Working Papers
   * In preparation for submitting to _Marketing Science_
   * Presented at ISMS Marketing Science (2022)
   * Invited to present at Korea University Brownbag seminar (2021)
-
-{% comment %} 
-* Does the ''Going Solo'' Relationship Trend have an Effect on the Real Estate Market?
-  * Finalizing for submitting to _Management Science_
-  * with Ralph Siebert and Zaiyan Wei
-  * Presented at POMS Annual Conference (2022)
-    
- * The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents
-  * In preparation for submitting to _Journal of Marketing_
-  * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
-  * Presented at ISMS Marketing Science (2023)
-{% endcomment %}
