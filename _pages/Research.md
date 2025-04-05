@@ -23,31 +23,23 @@ Methodology
 Accepted/Published Papers
 ======
 (* Indicates first author or co-first author. Co-first authors listed in alphabetic order.)
-*  Shimao, H. *, Kim, SJ. *, Khern-am-nuai, W., and Cohen, M. "Revisiting the CEO Effect Through Machine Learning Lens." Management Science (Forthcoming)
+*  Shimao, H. *, Kim, SJ. *, Khern-am-nuai, W., and Cohen, M. "Revisiting the CEO Effect Through Machine Learning Lens." Management Science
+*  https://pubsonline.informs.org/doi/10.1287/mnsc.2023.03625
 
 
-Papers Under Review
+Papers Under Review/Revision
 ======   
 (* Indicates first author or co-first author. Co-first authors listed in alphabetic order.)
- * Kim, SJ.*, Xie K., Chen, W., Wei Z. “Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment." Under Review
-   
+ * Kim, SJ.*, Puranam, D., Kar, W., and S. Siddarth. "Spillover Effects of Minimum Wage Policies on Gig-Workers: Evidence from Multi-level Marketing"  _Under Review_  
+ * Kim, SJ.*, Siebert, R., Wei, Z. "Going Solo: How Single-Person Households Shape the Housing Market" _Under Review_  
+ * Kim, SJ.*, Xie K., Chen, W., Wei Z. “Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment." _Reject and Resubmit_
    
 Working Papers
 ======
 * Should Digital Platforms Share Data with Governments? Evidence from Airbnb
   * Finalizing for submitting to _MIS Quarterly_
   * with Hongchang Wang, Karen Xie, Wei Chen and Zaiyan Wei
-
-* Does the ''Going Solo'' Relationship Trend have an Effect on the Real Estate Market?
-  * Finalizing for submitting to _Management Science_
-  * with Ralph Siebert and Zaiyan Wei
-  * Presented at POMS Annual Conference (2022)
-    
-* The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents
-  * In preparation for submitting to _Journal of Marketing_
-  * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
-  * Presented at ISMS Marketing Science (2023)
-        
+       
 * Does Robot-Assisted Surgery Improve Healthcare Delivery?
   * with Jianing Ding and Susan Feng Lu
   * In preparation for submitting to _Management Science_
@@ -61,4 +53,12 @@ Working Papers
   * Invited to present at Korea University Brownbag seminar (2021)
 
 
-
+<* Does the ''Going Solo'' Relationship Trend have an Effect on the Real Estate Market?
+  * Finalizing for submitting to _Management Science_
+  * with Ralph Siebert and Zaiyan Wei
+  * Presented at POMS Annual Conference (2022)
+    
+* The Spillover Effect of a Minimum Wage Increase on a Multi-level Marketing Firm and Its “Uncovered” Sales Agents
+  * In preparation for submitting to _Journal of Marketing_
+  * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
+  * Presented at ISMS Marketing Science (2023)>
