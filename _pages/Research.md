@@ -29,20 +29,17 @@ Accepted/Published Papers
 
 Papers Under Review/Revision
 ======   
-(* Indicates first author or co-first author. Co-first authors listed in alphabetic order.)
- * Kim, SJ.*, Puranam, D., Kar, W., and S. Siddarth. "Spillover Effects of Minimum Wage Policies on Gig-Workers: Evidence from Multi-level Marketing"
+* Wang H., Xie K., Kim, SJ., Chen, W., Wei Z. Should Digital Platforms Share Data with Governments? Evidence from Airbnb
+   * _Under Review at Information Systems Research_ 
+* Kim, SJ., Puranam, D., Kar, W., and S. Siddarth. "Spillover Effects of Minimum Wage Policies on Gig-Workers: Evidence from Multi-level Marketing"
    * _Under Review at Journal of Marketing_  
- * Kim, SJ.*, Siebert, R., Wei, Z. "Going Solo: How Single-Person Households Shape the Housing Market"
-   * _Under Review at Management Science_  
- * Kim, SJ.*, Xie K., Chen, W., Wei Z. “Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment."
+* Kim, SJ., Siebert, R. "Going Solo: How Single-Person Households Shape the Housing Market"
+   * _Under Review at American Economic Journal: Microeconomics_  
+* Kim, SJ., Xie K., Chen, W., Wei Z. “Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment."
    * _Reject and Resubmit at MIS Quarterly_
    
 Working Papers
-======
-* Should Digital Platforms Share Data with Governments? Evidence from Airbnb
-  * Finalizing for submitting to _MIS Quarterly_
-  * with Hongchang Wang, Karen Xie, Wei Chen and Zaiyan Wei
-       
+======      
 * Does Robot-Assisted Surgery Improve Healthcare Delivery?
   * with Jianing Ding and Susan Feng Lu
   * In preparation for submitting to _Management Science_
