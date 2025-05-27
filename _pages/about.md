@@ -12,7 +12,7 @@ Sung Joo Kim (김성주) is a Ph.D. candidate in Management Information Systems 
 
 He will be joining Kogod School of Business at American University as an Assistant Professor of Information Technology and Analytics starting August 2025.
 
-[Download my CV](/files/Curriculum_Vitae_03262025.pdf){:target="_blank"} 
+[Download my CV](/files/Curriculum_Vitae_05272025.pdf){:target="_blank"} 
 
  
 Education
