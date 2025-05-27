@@ -29,7 +29,7 @@ Accepted/Published Papers
 
 Papers Under Review/Revision
 ======   
-* Wang H., Xie K., Kim, SJ., Chen, W., Wei Z. Should Digital Platforms Share Data with Governments? Evidence from Airbnb
+* Wang H., Xie K., Kim, SJ., Chen, W., Wei Z. "Should Digital Platforms Share Data with Governments? Evidence from Airbnb"
    * _Under Review at Information Systems Research_ 
 * Kim, SJ., Puranam, D., Kar, W., and S. Siddarth. "Spillover Effects of Minimum Wage Policies on Gig-Workers: Evidence from Multi-level Marketing"
    * _Under Review at Journal of Marketing_  
