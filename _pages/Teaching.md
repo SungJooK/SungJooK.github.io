@@ -10,6 +10,10 @@ author_profile: true
 Instructor 
 ======
 * Daniels School of Business, Purdue University
+  * MGMT 479: Data Visualization (Spring 2025)
+    * Instructor Evalution: 4.8/5.0
+    * Awarded Krannert Certificate for Distinguished Teaching
+      
   * MGMT 544: Database Management Systems (Spring 2024)
     * Instructor Evalution: 4.8/5.0
     * Awarded Krannert Certificate for Distinguished Teaching
