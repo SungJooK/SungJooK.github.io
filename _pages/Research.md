@@ -32,11 +32,11 @@ Papers Under Review/Revision
 * Kim, SJ., Puranam, D., Kar, W., and S. Siddarth. "Spillover Effects of Minimum Wage Policies on Gig-Workers: Evidence from Multi-level Marketing"
    * _Invited to revise and resubmit at Journal of Marketing_ 
 * Wang H., Xie K., Kim, SJ., Chen, W., Wei Z. "Should Digital Platforms Share Data with Governments? Evidence from Airbnb"
-   * _Under Review at Information Systems Research_ 
+   * _Under review at Information Systems Research_ 
 * Kim, SJ., Siebert, R. "Going Solo: How Single-Person Households Shape the Housing Market"
-   * _Under Review at American Economic Journal: Microeconomics_  
+   * _Under review at American Economic Journal: Microeconomics_  
 * Kim, SJ., Xie K., Chen, W., Wei Z. “Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment."
-   * _Reject and Resubmit at MIS Quarterly_
+   * _Reject and resubmit at MIS Quarterly_
    
 Working Papers
 ======      
