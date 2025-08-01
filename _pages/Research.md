@@ -46,8 +46,7 @@ Working Papers
   * Presented at Informs Annual Meeting (2023,2024)
   * Presented at POMS Annual Conference (2024)
      
-* How the Compensation Plan of a Multilevel Marketing Firm Impacts Sales Agent Effort and Performance: The Role of Boundary Looking  
-  * with Wreeto Kar, S. Siddarth, and Byungyeon Kim
+* To Sell or to Buy? A Structural Analysis of Multi-Level Marketing Compensation 
+  * with Byungyeon Kim, Wreeto Kar, and S. Siddarth 
   * In preparation for submitting to _Marketing Science_
-  * Presented at ISMS Marketing Science (2022)
-  * Invited to present at Korea University Brownbag seminar (2021)
+  * Presented at ISMS Marketing Science (2025)
