@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sung Joo Kim"
 title_separator          : "-"
 name                     : "Sung Joo Kim"
-description              : "PhD candidate in Information Systems at Purdue University"
+description              : "Assistant Professor of Information Technology and Analytics at Kogod School of Business, American University"
 url                      : https://SungJooK.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SungJooK.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sung Joo Kim"
   avatar           : "website_profile_pic_cropped.png"
-  bio              : "PhD candidate in Management Information Systems at Purdue University"
-  #location         : "403 Mitch Daniels Blvd, West Lafayette, IN 47907"
+  bio              : "Assistant Professor of Information Technology and Analytics at Kogod School of Business, American University"
+  #location         : "4400 Massachusetts Avenue NW 228"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=I5DO2EYAAAAJ&hl=en"
-  email            : "kim3245@purdue.edu"
+  email            : "skim@american.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
