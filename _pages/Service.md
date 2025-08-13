@@ -23,6 +23,5 @@ Conference Reviewer
 
 Conference Volunteer
 ======
- * Conference on Information Systems and Technology (CIST) 
-   * 2022
+ * Conference on Information Systems and Technology (CIST 2022) 
 
