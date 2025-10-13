@@ -10,7 +10,7 @@ redirect_from:
 
 Sung Joo Kim (김성주) is an Assistant Professor of Information Technology and Analytics at Kogod School of Business, American University. His research focuses on AI applications, housing market, and multilevel marketing salesforce. He utilizes empirical models including casual inference and structural modeling as well as bridging machine learning. He is also highly skilled in big data analytics using multi-thread computing on cloud.  
 
-[Download my CV](/files/Curriculum_Vitae_08132025.pdf){:target="_blank"} 
+[Download my CV](/files/Curriculum_Vitae_10132025.pdf){:target="_blank"} 
 
  
 Education
