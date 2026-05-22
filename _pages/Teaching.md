@@ -32,10 +32,10 @@ Instructor
 
 Teaching assistant
 ======
-* Daniels School of Business, Purdue University (2019- )
-  * MGMT 590: Visual Analytics (2023)
-  * MGMT 683: Information Technology for Innovation and Competitive Advatange (2021-2023)
-  * MGMT 382: Management and Information Systems (2020) 
+* Daniels School of Business, Purdue University (2019-2025)
+  * MGMT 590: Visual Analytics 
+  * MGMT 683: Information Technology for Innovation and Competitive Advatange
+  * MGMT 382: Management and Information Systems  
   
   
 * Korea University Business School (2019)
