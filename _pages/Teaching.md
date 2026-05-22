@@ -9,6 +9,10 @@ author_profile: true
 
 Instructor 
 ======
+* Kogod School of Business, American University
+  * KSB 224: American University (Spring 2026)
+
+      
 * Daniels School of Business, Purdue University
   * MGMT 479: Data Visualization (Spring 2025)
     * Instructor Evalution: 4.8/5.0
