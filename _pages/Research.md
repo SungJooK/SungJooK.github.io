@@ -33,8 +33,6 @@ Papers Under Review/Revision
    * _Revised and resubmitted at Journal of Marketing_ 
 * Wang H., Xie K., Kim, SJ., Chen, W., Wei Z. "Should Digital Platforms Share Data with Governments? Evidence from Airbnb"
    * _Invited to revise and resubmit at Information Systems Research_ 
-* Kim, SJ., Siebert, R. "Going Solo: How Single-Person Households Shape the Housing Market"
-   * _Under review at American Economic Journal: Microeconomics_  
 * Kim, SJ., Xie K., Chen, W., Wei Z. “Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment."
    * _Reject and resubmit at MIS Quarterly_
    
@@ -42,10 +40,12 @@ Working Papers
 ======      
 * Does Robot-Assisted Surgery Improve Healthcare Delivery?
   * with Jianing Ding and Susan Feng Lu
-  * In preparation for submitting to _Management Science_
-  * Presented at DSI Annual Conference, POMS Annual Conference, Informs Annual Meeting
      
 * To Sell or to Buy? A Structural Analysis of Multi-Level Marketing Compensation 
   * with Byungyeon Kim, Wreeto Kar, and S. Siddarth 
-  * In preparation for submitting to _Marketing Science_
-  * Presented at ISMS Marketing Science
+
+* Going Solo: How Single-Person Households Shape the Housing Market
+  * with Ralph Siebert
+ 
+* The Chaotic Nature of LLMs When They Work Together
+  * with Hajime Shimao and Warut Khern-am-nua
