@@ -28,7 +28,7 @@ Accepted/Published Papers
 
 Papers Under Review/Revision
 ======   
-* Shimao, H., Khern-am-nuai, W., and Kim, SJ. "The Chaotic Nature of LLMs When They Work Together"
+* Shimao, H., Khern-am-nuai, W., and Kim, SJ. "Collective AI can Amplify Tiny Perturbations into Divergent Decisions"
    * _Under Review at Science_ 
 * Wang H., Xie K., Kim, SJ., Chen, W., Wei Z. "Should Digital Platforms Share Data with Governments? Evidence from Airbnb"
    * _Revised and resubmitted at Information Systems Research_ 
