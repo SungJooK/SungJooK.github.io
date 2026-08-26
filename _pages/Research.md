@@ -46,5 +46,5 @@ Working Papers
 * Going Solo: How Single-Person Households Shape the Housing Market
   * with Ralph Siebert
  
-* "Spillover Effects of Minimum Wage Policies on Gig-Workers: Evidence from Multi-level Marketing"
+* Spillover Effects of Minimum Wage Policies on Gig-Workers: Evidence from Multi-level Marketing
    * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
