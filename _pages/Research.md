@@ -22,17 +22,16 @@ Methodology
   
 Accepted/Published Papers
 ======
-(* Indicates first author or co-first author. Co-first authors listed in alphabetic order.)
-* [1]  Shimao, H. *, Kim, SJ. *, Khern-am-nuai, W., and Cohen, M. "Revisiting the CEO Effect Through Machine Learning Lens." _Management Science_
+* [1]  Shimao, H. , Kim, SJ. , Khern-am-nuai, W., and Cohen, M. "Revisiting the CEO Effect Through Machine Learning Lens." _Management Science_
 [[Publisher Website](https://pubsonline.informs.org/doi/full/10.1287/mnsc.2023.03625){:target="_blank"}]
 
 
 Papers Under Review/Revision
 ======   
-* Kim, SJ., Puranam, D., Kar, W., and S. Siddarth. "Spillover Effects of Minimum Wage Policies on Gig-Workers: Evidence from Multi-level Marketing"
-   * _Revised and resubmitted at Journal of Marketing_ 
+* Shimao, H., Khern-am-nuai, W., and Kim, SJ. "The Chaotic Nature of LLMs When They Work Together"
+   * _Under Review at Science_ 
 * Wang H., Xie K., Kim, SJ., Chen, W., Wei Z. "Should Digital Platforms Share Data with Governments? Evidence from Airbnb"
-   * _Invited to revise and resubmit at Information Systems Research_ 
+   * _Revised and resubmitted at Information Systems Research_ 
 * Kim, SJ., Xie K., Chen, W., Wei Z. “Beyond the Stay: How Short-term Rentals Reshape Residential Real Estate Investment."
    * _Reject and resubmit at MIS Quarterly_
    
@@ -47,5 +46,5 @@ Working Papers
 * Going Solo: How Single-Person Households Shape the Housing Market
   * with Ralph Siebert
  
-* The Chaotic Nature of LLMs When They Work Together
-  * with Hajime Shimao and Warut Khern-am-nua
+* "Spillover Effects of Minimum Wage Policies on Gig-Workers: Evidence from Multi-level Marketing"
+   * with Dinesh Puranam, Wreeto Kar, and S. Siddarth
